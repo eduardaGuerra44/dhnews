@@ -1,0 +1,35 @@
+
+
+
+
+
+main {
+    background-color: rgb(248, 236, 242);
+    width: 80%;
+    margin: 50px auto;
+    max-width: 960px;
+    padding: 50px;
+    border: radius 50px;;
+   
+}
+img{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto 0 auto;
+    display: block;
+}
+
+header{
+ font-size:  40px;
+  color:rgb(233, 27, 62);
+  font-weight: bold;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+p{
+    text-align: justify;
+    
+}
