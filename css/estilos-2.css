@@ -1,8 +1,9 @@
 body{
-    background-color: brown;
+    background-color: rgba(141, 2, 55, 0.822);
+    font-family: 'Rajdhani', sans-serif;
 }
 header {
-    color: brown;
+    color: rgb(219, 16, 60);
     font-size: 44px;
 }
 main {
